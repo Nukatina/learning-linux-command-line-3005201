@@ -1,0 +1,2 @@
+I'm in text1.txt
+I'm in hardlink.txt
